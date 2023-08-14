@@ -13,7 +13,7 @@ As a data analyst, I am excited about the potential of data to provide valuable 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/leo-rajan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leo" height="30" width="40" /></a>
-<a href="mailto:leorajan17@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/723-e-mail-2.svg" alt="16556526" height="30" width="40" /></a>
+<a href="https://mailto:leorajan17@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2e/723-e-mail-2.svg" alt="16556526" height="30" width="40" /></a>
 <a href="https://leo7736.github.io/" target="_blank"><img align="center" src="https://github.com/googlefonts/noto-emoji/blob/f2a4f72/svg/emoji_u1f310.svg" alt="portfolio" height="30" width="40" /></a>
 </p>
 
