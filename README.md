@@ -5,6 +5,7 @@
 
 
  [![](https://visitcount.itsvg.in/api?id=leo7736&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+ 
 
 # 💫 About Me:
 As a data analyst, I am excited about the potential of data to provide valuable insights and drive informed decision-making. I possess a strong foundation in data analysis and visualization techniques, with experience in SQL and Python programming and proficiency in tools such as Excel and Power BI. I am eager to apply my skills and knowledge to real-world challenges and contribute to the success of organizations. I am a detail-oriented and analytical thinker who thrives in a collaborative environment and is always seeking to learn and grow.
