@@ -35,7 +35,10 @@ As a data analyst, I am excited about the potential of data to provide valuable 
 ![](https://github-profile-trophy.vercel.app/?username=leo7736&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
+## 🐍 Current Stats
 
+|   ![Leo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leo7736&theme=rogue)
+| :---: |
 
 
 
