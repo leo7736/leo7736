@@ -24,7 +24,7 @@ As a data analyst, I am excited about the potential of data to provide valuable 
 ## 📔 Projects:
 
 
-[![power bi](https://img.shields.io/badge/PowerBI-F7DF1E?logo=powerbi&logoColor=black)](https://github.com/leo7736/Power_BI_Project) [![ SQL ](https://img.shields.io/badge/SQL-%230077B5.svg?logo=mysql&logoColor=white)](https://github.com/leo7736/SQL_Projects) [![  Machine Learning ](https://img.shields.io/badge/Machine_Learning-%23150458.svg?logo=probot&logoColor=white)](https://github.com/leo7736/Python/tree/main/Machine%20Learning/ML_Projects) [![  EDA ](https://img.shields.io/badge/EDA-%23013243.svg?logo=jupyter&logoColor=white)](https://github.com/leo7736/Python/tree/main/EDA%20Projects)
+[![power bi](https://img.shields.io/badge/PowerBI-F7DF1E?logo=powerbi&logoColor=black)](https://github.com/leo7736/Power_BI_Project) [![ SQL ](https://img.shields.io/badge/SQL-%230077B5.svg?logo=mysql&logoColor=white)](https://github.com/leo7736/SQL_Projects) [![  Machine Learning ](https://img.shields.io/badge/Machine_Learning-%23150458.svg?logo=probot&logoColor=white)](https://github.com/leo7736/Python/tree/main/Machine%20Learning/ML_Projects) [![  EDA ](https://img.shields.io/badge/EDA-%23013243.svg?logo=jupyter&logoColor=white)](https://github.com/leo7736/Python/tree/main/EDA%20Projects) [![  Case Study ](https://img.shields.io/badge/Case_Study-%2344A833.svg?logo=blogger&logoColor=white)](https://github.com/leo7736/Python/tree/main/EDA%20Projects)
 
 
 ## 💻 Tech Stack:
