@@ -35,7 +35,7 @@ As a data analyst, I am excited about the potential of data to provide valuable 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leo7736&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=leo7736&theme=onedark)
+![trophy](https://hacked-github-stat-trophies-master.vercel.app/?username=leo7736&theme=onedark)
 
 
 ## 🐍 Current Stats
